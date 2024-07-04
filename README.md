@@ -37,7 +37,7 @@ Welcome to the Multiplayer Chess Game project! This application enables users to
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/swabhi16s/Chess.git
-   cd chess
+   cd Chess
    ```
 
 2. **Install dependencies:**
